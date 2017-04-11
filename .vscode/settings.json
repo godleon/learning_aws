@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "~/Dropbox/pyEnvs/.venv_aws/bin/python3.5", 
+    "python.autoComplete.extraPaths": [
+        "~/Dropbox/pyEnvs/.venv_aws/lib/python3.5",
+        "~/Dropbox/pyEnvs/.venv_aws/lib/python3.5/site-packages"
+    ]
+}
